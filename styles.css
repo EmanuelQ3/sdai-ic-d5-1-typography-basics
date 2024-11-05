@@ -5,7 +5,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Cormorant Infant', cursive;
     color: #f4f4f4;
     margin-top: 0;
     margin-bottom: 0.5em;
@@ -13,7 +13,7 @@ h6 {
 
 /* Base Styles for Paragraphs */
 p {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Cormorant Infant', cursive;
     color: #f4f4f4;
     font-size: 1rem;
     line-height: 1.6;
@@ -40,14 +40,14 @@ p {
 .nav a {
     text-decoration: none;
     color: #f4f4f4;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Cormorant Infant', cursive;
 }
 
 /* Page Background */
 body {
     background-color: #2d2d2d;
     color: #f4f4f4;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Cormorant Infant', cursive;
     margin: 0;
     padding: 0;
     display: flex;
@@ -63,7 +63,7 @@ footer {
 }
 
 header h1 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Cormorant Infant', cursive;
     font-size: 2.5rem;
     color: #f4f4f4;
 }
@@ -110,7 +110,7 @@ main {
 
 .card h3 {
     color: #e21;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Cormorant Infant', cursive;
 }
 
 .card-number,
